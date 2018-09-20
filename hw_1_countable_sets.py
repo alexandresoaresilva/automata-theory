@@ -67,8 +67,8 @@ def f(*x):
     
 print()
 print("|||||  N x N x N -> N  |||||")
-print("for (0,0), " + str(f(0,0,0)) )
-print("for (2,0), " + str(f(2,0,1)) )
+print("for (0,0,0), " + str(f(0,0,0)) )
+print("for (2,0,1), " + str(f(2,0,1)) )
 
 
 # In[20]:
